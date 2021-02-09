@@ -1,0 +1,5 @@
+name: ChatPlus
+main: com.mrmatches.chatplus.ChatPlus
+version: 0.0.1
+authors: [MrMatchesExMark]
+description: Few essential addon for chat
